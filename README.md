@@ -1,1 +1,2 @@
-# C-36-class
+# synchronousBallMovement
+Ball moving synchronously
